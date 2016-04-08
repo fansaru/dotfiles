@@ -1,0 +1,1 @@
+/home/johannes/.irssi/scripts/mpd.pl
